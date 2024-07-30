@@ -1,0 +1,3 @@
+C:/Users/Ilyab/source/repos/BankQueueManagementSystem/BankQueueManagementSystem/build/CMakeFiles/testovoe.dir
+C:/Users/Ilyab/source/repos/BankQueueManagementSystem/BankQueueManagementSystem/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Ilyab/source/repos/BankQueueManagementSystem/BankQueueManagementSystem/build/CMakeFiles/ZERO_CHECK.dir
